@@ -1,3 +1,0 @@
-all:
-    pip install gutenberg
-    python download_spanish_words.py
